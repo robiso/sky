@@ -22,7 +22,7 @@
 
 		<!-- Website and page title -->
 		<title>
-		<?= $Wcms->get('config', 'siteTitle') ?> - <?= $Wcms->page('title') ?>
+			<?= $Wcms->get('config', 'siteTitle') ?> - <?= $Wcms->page('title') ?>
 
 		</title>
 
@@ -42,7 +42,7 @@
 		<section id="topMenu">
 			<div class="inner">
 				<nav>
-					<ul>
+					<ul class="menu">
 						<!-- Menu -->
 						<?= $Wcms->menu() ?>
 
