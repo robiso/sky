@@ -5,7 +5,7 @@
             "name": "Sky",
             "repo": "https://github.com/robiso/sky/tree/master",
             "zip": "https://github.com/robiso/sky/archive/master.zip",
-            "summary": "Default WonderCMS theme (2021).\nTheme works without Bootstrap and jQuery.\nWorks only with WonderCMS 3.0.8 and higher.",
+            "summary": "Default WonderCMS theme (2021). Theme works without Bootstrap and jQuery. Works only with WonderCMS 3.0.8 and higher.",
             "version": "3.2.0",
             "image": "https://raw.githubusercontent.com/robiso/sky/master/preview.jpg"
         }
